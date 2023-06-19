@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <img src='https://www.codewars.com/users/rsschool_32a522e958adbd84/badges/large'>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clooney-dev&theme=dracula&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clooney-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
